@@ -2,7 +2,7 @@
  使用 tkinter 制作的小工具，能随机抽取一个男生、女生或者随机抽取一个人
 
 ## 使用方法
-成品地址：
+成品地址：https://pan.bigdataboy.cn/#/s/0Mh6
 
 ### 准数据文件 & 打开软件初始化
 > 一定注意表格文件文件格式
@@ -13,11 +13,6 @@
 ### 随机抽取
 
 [![mark](https://bigdataboy-cn.oss-cn-shanghai.aliyuncs.com/bigdataboy/20201104/173139726.gif)]()
-
-### 准备数据文件
-
-[]()
-
 
 
 ## 源码说明
